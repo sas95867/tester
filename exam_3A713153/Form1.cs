@@ -101,7 +101,7 @@ namespace exam_3A713153
         {
             x = (new Random()).Next(100);
             a = 0;
-            rtbout.Text = " ";
+            rtbout.Text = "  ";
 
         }
     }
